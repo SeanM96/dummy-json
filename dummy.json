@@ -1,7 +1,26 @@
-[
-{ link: 'https://www.youtube.com/embed/vMSmUzDt-7U', title: 'adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb', imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'},
-{ link: 'https://www.youtube.com/embed/vMSmUzDt-7U', title: 'adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb', imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'},
-{ link: 'https://www.youtube.com/embed/vMSmUzDt-7U', title: 'adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb', imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'},
-{ link: 'https://www.youtube.com/embed/vMSmUzDt-7U', title: 'adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb', imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'},
-{ link: 'https://www.youtube.com/embed/vMSmUzDt-7U', title: 'adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb', imageSrc: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png'}
+[{
+		"link": "https://www.youtube.com/embed/vMSmUzDt-7U",
+		"title": "adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb",
+		"imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+	},
+	{
+		"link": "https://www.youtube.com/embed/vMSmUzDt-7U",
+		"title": "adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb",
+		"imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+	},
+	{
+		"link": "https://www.youtube.com/embed/vMSmUzDt-7U",
+		"title": "adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb",
+		"imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+	},
+	{
+		"link": "https://www.youtube.com/embed/vMSmUzDt-7U",
+		"title": "adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb",
+		"imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+	},
+	{
+		"link": "https://www.youtube.com/embed/vMSmUzDt-7U",
+		"title": "adhjsbsddshbfhs bhdsbajhbhj hfds dshbfshjdb",
+		"imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+	}
 ]
